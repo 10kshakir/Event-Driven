@@ -58,7 +58,7 @@ while True:
 
       for py in li_py:
             os.system(f'python {py}')
-            os.remove(f"../source/{py}")
+           
 
 
 
