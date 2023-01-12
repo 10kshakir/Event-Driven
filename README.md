@@ -1,4 +1,5 @@
-# python-lab-assignment-2
-# Event-Driven
-# Event-Driven
-# Event-Driven
+#Event driven
+## go to server folder  and run
+ ``` python main.py
+ 
+
